@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="CalculatriceMunge"/>
+	<feature automatic="selected" name="Operation"/>
+	<feature manual="selected" name="Addition"/>
+	<feature name="Soustraction"/>
+	<feature name="Division"/>
+	<feature manual="selected" name="Multiplication"/>
+	<feature manual="selected" name="Modulo"/>
+	<feature automatic="selected" name="Type"/>
+	<feature manual="selected" name="Reel"/>
+	<feature automatic="unselected" name="Entier"/>
+	<feature automatic="selected" name="Signe"/>
+	<feature automatic="unselected" name="Signee"/>
+	<feature manual="selected" name="NonSignee"/>
+	<feature automatic="selected" name="Numeros"/>
+	<feature manual="selected" name="Cancel"/>
+	<feature automatic="selected" name="Backspace"/>
+	<feature automatic="selected" name="Resultat"/>
+</configuration>
